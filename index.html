@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+<title>Dokkan Battle Flair Selector</title>
+<link rel="stylesheet" type="text/css" href="styles/flair_bot.css">
+</head>
+
+<body>
+
+<h1>SOUTH PARK PHONE DESTROYER FLAIR-O-MATIC</h1>
+<h3>Where all your memes come true</h3> 
+
+<div class="container">
+<div class="flair flair-park" id="flair" style="float: none"></div>
+<div style="text-align: left; position: relative;">
+<input type="text" id="text" placeholder="Flair text here..">
+</div>
+<br><br>
+Current Flair Code: <div id="flaircode"></div>
+<br>
+<div onclick="sendflair()" id="button">Send Flair Request</div>
+
+<p>*To assign yourself a flair without text, type 'none'.</p>
+<p>*Please do <strong>NOT</strong> use special characters - these cause the bot to glitch.</p>
+<p><strong>Note:</strong> Text box cannot be blank.</p>
+
+</div>
+
+<div class="container">
+<div onclick='fselect(this.id)' class='flair flair-park flair-0-cartman' id='0-cartman'></div>
+<div onclick='fselect(this.id)' class='flair flair-park flair-1-cartman' id='1-cartman'></div>
+</div>
+</body>
+</html>
+<script>
+function sendflair(){
+    txt = (document.getElementById("text").value);
+    window.open("http://www.reddit.com/message/compose/?to=DokkanFlairBot&subject=%22+name+%22&message=%22+txt)
+}
+
+function fselect(vnum){
+    document.getElementById(name).className = "flair flair-dokkan flair-"+name;
+    name = vnum;
+    document.getElementById(vnum).className += " selected";
+    document.getElementById("flair").className = "flair flair-dokkan flair-"+name;
+    document.getElementById("flaircode").innerHTML = name;
+}
+name = '0-cartman';
+</script>
