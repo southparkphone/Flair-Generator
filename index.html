@@ -38,8 +38,8 @@
     	border-radius: 2px;
     }
     
-    .flair-dokkan{
-        background-image: url("img/flair_bot.png")
+    .flair-park{
+        background-image: url("spritesheet.png")
     }
     
     #flair{
@@ -82,6 +82,48 @@
         color: #555;
         font-family: calibri;
     }
+	.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.flair-3-cartman {
+    width: 128px;
+    height: 128px;
+    background-position: -5px -5px;
+}
+
+.flair-0-randy {
+    width: 128px;
+    height: 128px;
+    background-position: -5px -143px;
+}
+
+.flair-0-southsign {
+    width: 128px;
+    height: 128px;
+    background-position: -5px -281px;
+}
+
+.flair-2-cartman {
+    width: 128px;
+    height: 128px;
+    background-position: -5px -419px;
+}
+
+.flair-1-cartman {
+    width: 128px;
+    height: 128px;
+    background-position: -5px -557px;
+}
+
+.flair-0-cartman {
+    width: 128px;
+    height: 128px;
+    background-position: -5px -695px;
+}
+
 </style>
 
 <body>
@@ -108,6 +150,10 @@ Current Flair Code: <div id="flaircode"></div>
 <div class="container">
 <div onclick='fselect(this.id)' class='flair flair-park flair-0-cartman' id='0-cartman'></div>
 <div onclick='fselect(this.id)' class='flair flair-park flair-1-cartman' id='1-cartman'></div>
+<div onclick='fselect(this.id)' class='flair flair-park flair-2-cartman' id='2-cartman'></div>
+<div onclick='fselect(this.id)' class='flair flair-park flair-3-cartman' id='3-cartman'></div>
+<div onclick='fselect(this.id)' class='flair flair-park flair-0-southsign' id='0-southsign'></div>
+<div onclick='fselect(this.id)' class='flair flair-park flair-0-randy' id='0-randy'></div>
 </div>
 </body>
 </html>
