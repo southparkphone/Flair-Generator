@@ -165,16 +165,16 @@ Current Flair Code: <div id="flaircode"></div>
 </html>
 <script>
 function sendflair(){
-    txt = (document.getElementById("text").value);
-    window.open("http://www.reddit.com/message/compose/?to=DokkanFlairBot&subject=%22+name+%22&message=%22+txt")
+	txt = (document.getElementById("text").value);
+	window.open("http://www.reddit.com/message/compose/?to=DokkanFlairBot&subject="+name+"&message="+txt)
 }
 
 function fselect(vnum){
-    document.getElementById(name).className = "flair flair-park flair-"+name;
-    name = vnum;
-    document.getElementById(vnum).className += " selected";
-    document.getElementById("flair").className = "flair flair-park flair-"+name;
-    document.getElementById("flaircode").innerHTML = name;
+	document.getElementById(name).className = "flair flair-park flair-"+name;
+	name = vnum;
+	document.getElementById(vnum).className += " selected";
+	document.getElementById("flair").className = "flair flair-park flair-"+name;
+	document.getElementById("flaircode").innerHTML = name;
 }
-name = '0-cartman';
+
 </script>
