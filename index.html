@@ -227,8 +227,8 @@ function sendflair(){
 }
 
 function fselect(vnum){
-	document.getElementById(name).className = "flair sprite flair-"+name;
 	name = vnum;
+	document.getElementById(name).className = "flair sprite flair-"+name;
 	document.getElementById(vnum).className += " selected";
 	document.getElementById("flair").className = "flair sprite flair-"+name;
 	document.getElementById("flaircode").innerHTML = name;
