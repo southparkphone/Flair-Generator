@@ -1,0 +1,569 @@
+.flair {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.flair-South-Park-Stickers_01 {
+    width: 144px;
+    height: 118px;
+    background-position: -5px -5px;
+}
+
+.flair-South-Park-Stickers_02 {
+    width: 145px;
+    height: 118px;
+    background-position: -5px -133px;
+}
+
+.flair-South-Park-Stickers_03 {
+    width: 144px;
+    height: 118px;
+    background-position: -5px -261px;
+}
+
+.flair-South-Park-Stickers_04 {
+    width: 144px;
+    height: 118px;
+    background-position: -5px -389px;
+}
+
+.flair-South-Park-Stickers_05 {
+    width: 144px;
+    height: 118px;
+    background-position: -5px -517px;
+}
+
+.flair-South-Park-Stickers_06 {
+    width: 145px;
+    height: 118px;
+    background-position: -5px -645px;
+}
+
+.flair-South-Park-Stickers_07 {
+    width: 144px;
+    height: 118px;
+    background-position: -5px -773px;
+}
+
+.flair-South-Park-Stickers_08 {
+    width: 144px;
+    height: 118px;
+    background-position: -5px -901px;
+}
+
+.flair-South-Park-Stickers_09 {
+    width: 144px;
+    height: 117px;
+    background-position: -5px -1029px;
+}
+
+.flair-South-Park-Stickers_10 {
+    width: 145px;
+    height: 117px;
+    background-position: -5px -1156px;
+}
+
+.flair-South-Park-Stickers_11 {
+    width: 144px;
+    height: 117px;
+    background-position: -5px -1283px;
+}
+
+.flair-South-Park-Stickers_12 {
+    width: 144px;
+    height: 117px;
+    background-position: -5px -1410px;
+}
+
+.flair-South-Park-Stickers_13 {
+    width: 144px;
+    height: 118px;
+    background-position: -5px -1537px;
+}
+
+.flair-South-Park-Stickers_14 {
+    width: 145px;
+    height: 118px;
+    background-position: -5px -1665px;
+}
+
+.flair-South-Park-Stickers_15 {
+    width: 144px;
+    height: 118px;
+    background-position: -5px -1793px;
+}
+
+.flair-South-Park-Stickers_16 {
+    width: 144px;
+    height: 118px;
+    background-position: -5px -1921px;
+}
+
+.flair-South-Park-Stickers_18 {
+    width: 145px;
+    height: 118px;
+    background-position: -5px -2049px;
+}
+
+.flair-South-Park-Stickers_19 {
+    width: 144px;
+    height: 118px;
+    background-position: -5px -2177px;
+}
+
+.flair-South-Park-Stickers_20 {
+    width: 144px;
+    height: 118px;
+    background-position: -5px -2305px;
+}
+
+.flair-South-Park_01 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -2433px;
+}
+
+.flair-South-Park_02 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -2555px;
+}
+
+.flair-South-Park_03 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -2677px;
+}
+
+.flair-South-Park_04 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -2799px;
+}
+
+.flair-South-Park_05 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -2921px;
+}
+
+.flair-South-Park_06 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -3043px;
+}
+
+.flair-South-Park_07 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -3165px;
+}
+
+.flair-South-Park_08 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -3287px;
+}
+
+.flair-South-Park_09 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -3409px;
+}
+
+.flair-South-Park_10 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -3531px;
+}
+
+.flair-South-Park_11 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -3653px;
+}
+
+.flair-South-Park_12 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -3775px;
+}
+
+.flair-South-Park_13 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -3897px;
+}
+
+.flair-South-Park_14 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -4019px;
+}
+
+.flair-South-Park_15 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -4141px;
+}
+
+.flair-South-Park_16 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -4263px;
+}
+
+.flair-South-Park_17 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -4385px;
+}
+
+.flair-South-Park_18 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -4507px;
+}
+
+.flair-South-Park_19 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -4629px;
+}
+
+.flair-South-Park_20 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -4751px;
+}
+
+.flair-South-Park_21 {
+    width: 105px;
+    height: 113px;
+    background-position: -5px -4873px;
+}
+
+.flair-South-Park_22 {
+    width: 105px;
+    height: 113px;
+    background-position: -5px -4996px;
+}
+
+.flair-South-Park_23 {
+    width: 105px;
+    height: 113px;
+    background-position: -5px -5119px;
+}
+
+.flair-South-Park_24 {
+    width: 105px;
+    height: 113px;
+    background-position: -5px -5242px;
+}
+
+.flair-South-Park_25 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -5365px;
+}
+
+.flair-South-Park_26 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -5487px;
+}
+
+.flair-South-Park_27 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -5609px;
+}
+
+.flair-South-Park_28 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -5731px;
+}
+
+.flair-South-Park_29 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -5853px;
+}
+
+.flair-South-Park_30 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -5975px;
+}
+
+.flair-South-Park_31 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -6097px;
+}
+
+.flair-South-Park_32 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -6219px;
+}
+
+.flair-South-Park_33 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -6341px;
+}
+
+.flair-South-Park_34 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -6463px;
+}
+
+.flair-South-Park_35 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -6585px;
+}
+
+.flair-South-Park_36 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -6707px;
+}
+
+.flair-South-Park_37 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -6829px;
+}
+
+.flair-South-Park_38 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -6951px;
+}
+
+.flair-South-Park_39 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -7073px;
+}
+
+.flair-South-Park_40 {
+    width: 105px;
+    height: 112px;
+    background-position: -5px -7195px;
+}
+
+.flair-south_01 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -7317px;
+}
+
+.flair-south_02 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -7419px;
+}
+
+.flair-south_03 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -7521px;
+}
+
+.flair-south_04 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -7623px;
+}
+
+.flair-south_05 {
+    width: 95px;
+    height: 92px;
+    background-position: -5px -7725px;
+}
+
+.flair-south_06 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -7827px;
+}
+
+.flair-south_07 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -7929px;
+}
+
+.flair-south_08 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -8031px;
+}
+
+.flair-south_09 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -8133px;
+}
+
+.flair-south_10 {
+    width: 95px;
+    height: 92px;
+    background-position: -5px -8235px;
+}
+
+.flair-south_11 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -8337px;
+}
+
+.flair-south_12 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -8439px;
+}
+
+.flair-south_13 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -8541px;
+}
+
+.flair-south_14 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -8643px;
+}
+
+.flair-south_15 {
+    width: 95px;
+    height: 92px;
+    background-position: -5px -8745px;
+}
+
+.flair-south_16 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -8847px;
+}
+
+.flair-south_17 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -8949px;
+}
+
+.flair-south_18 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -9051px;
+}
+
+.flair-south_19 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -9153px;
+}
+
+.flair-south_20 {
+    width: 95px;
+    height: 92px;
+    background-position: -5px -9255px;
+}
+
+.flair-south_21 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -9357px;
+}
+
+.flair-south_22 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -9459px;
+}
+
+.flair-south_23 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -9561px;
+}
+
+.flair-south_24 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -9663px;
+}
+
+.flair-south_25 {
+    width: 95px;
+    height: 92px;
+    background-position: -5px -9765px;
+}
+
+.flair-south_26 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -9867px;
+}
+
+.flair-south_27 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -9969px;
+}
+
+.flair-south_28 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -10071px;
+}
+
+.flair-south_33 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -10173px;
+}
+
+.flair-south_37 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -10275px;
+}
+
+.flair-south_40 {
+    width: 95px;
+    height: 92px;
+    background-position: -5px -10377px;
+}
+
+.flair-south_42 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -10479px;
+}
+
+.flair-south_43 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -10581px;
+}
+
+.flair-south_46 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -10683px;
+}
+
+.flair-south_53 {
+    width: 100px;
+    height: 92px;
+    background-position: -5px -10785px;
+}
